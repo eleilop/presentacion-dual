@@ -30,7 +30,7 @@ La sesión nos permite que la información que he guardado se quede en el navega
 Al comprobar la información del usuario, si es válida accederá a la página principal y en caso contrario volverá al registro.  
   
 ![](./images/servlet.png)
-En el caso de pasar el servlet y ser la información inválida, volverá al registro, obtendremos el usuario creado y el mensaje de error que mostrará. 
+En el caso de pasar el servlet y ser la información inválida, volverá al registro, obtendremos el usuario creado y el mensaje de error que mostrará.  
   
 ![](./images/register_jsp.png)
 En caso contrario pasará a la página principal, obtendremos el usuario creado y lo usaremos para poner su nombre en el botón para acceder al perfil.  
