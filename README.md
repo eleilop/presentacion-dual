@@ -5,7 +5,7 @@ Link a la [presentación en grupo](https://www.canva.com/design/DAGGN6EK2kc/HYAi
 
 ## Presentación individual
 Vídeo del [proyecto intermedio de JSP](https://youtu.be/Ixd1xm60gYE).  
-Después de hacer los ejerciciso de repaso de Java, nos manadaron hacer un proyecto individual de JSP.  
+Después de hacer los ejerciciso de repaso de Java, nos mandaron hacer un proyecto individual de JSP.  
 El cuál nos ayudaría a entender tanto el funcionamiento de los servlets como el del manejo de sesiones en páginas web dinámicas.  
   
 Este proyecto consistiría en un registro, al registrarte podrías entrar a una página principal y acceder a la información del usuario que se acaba de registrar.  
