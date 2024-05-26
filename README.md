@@ -37,8 +37,7 @@ Al comprobar la información del usuario, si es válida accederá a la página p
 <hr>
 
 En el caso de pasar el servlet y ser la información inválida, volverá al registro, obtendremos el usuario creado y el mensaje de error que mostrará.  
-<hr>
-![](./images/register_jsp.png)
+![](./images/home_jsp.png)
 <hr>
 
 En caso contrario pasará a la página principal, obtendremos el usuario creado y lo usaremos para poner su nombre en el botón para acceder al perfil.  
