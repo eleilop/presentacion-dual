@@ -4,7 +4,7 @@
 Link a la [presentación en grupo](https://www.canva.com/design/DAGGN6EK2kc/HYAimlMYs5RSJxU7h1lwqw/view?utm_content=DAGGN6EK2kc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ## Presentación individual
-Vídeo del [proyecto intermedio de JSP](https://youtu.be/Ixd1xm60gYE).  
+Vídeo del [proyecto individual de JSP](https://youtu.be/Ixd1xm60gYE).  
   
 Después de hacer los ejercicios de repaso de Java, nos mandaron hacer un proyecto individual de JSP.  
 El cuál nos ayudaría a entender tanto el funcionamiento de los servlets como el manejo de sesiones en páginas web dinámicas.  
