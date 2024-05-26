@@ -51,15 +51,18 @@ principal y en caso contrario volverá al registro.
   
 <img src="./images/servlet.png" style="width: 50%;">
   
-Al haber pasado el servlet y ser la información inválida volviendo al  
-registro, obtendremos el usuario creado y el mensaje de error que mostrará. 
+Al haber pasado el servlet y ser la información inválida volviendo al registro,  
+obtendremos el usuario creado y el mensaje de error que mostrará. 
   
 <img src="./images/register_jsp.png" style="width: 50%;">
   
 Al haber pasado el servlet y ser la información válida pasando a la página  
-principal, obtendremos el usuario creado y lo usaremos para poner su nombre  
-en el botón para acceder al perfil.  
+principal, obtendremos el usuario creado y lo usaremos para poner su  
+nombre en el botón para acceder al perfil.  
   
 <img src="./images/home_jsp.png" style="width: 50%;">
+
+En la página el perfil del usuario obtendremos la información del usuario  
+para poder mostrarla.  
   
 <img src="./images/profile_jsp.png" style="width: 50%;">
