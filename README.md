@@ -5,3 +5,7 @@ Link a la [presentación en grupo](https://www.canva.com/design/DAGGN6EK2kc/HYAi
 
 ## Presentación individual
 Vídeo del [proyecto intermedio de JSP](https://youtu.be/Ixd1xm60gYE).  
+<img src="./images/register.png" style="width: 50%;"></img>
+<img src="./images/home.png" style="width: 50%;"></img>
+<img src="./images/profile.png" style="width: 50%;"></img>
+<img src="./images/error.png" style="width: 50%;"></img>
