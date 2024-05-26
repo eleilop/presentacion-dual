@@ -5,6 +5,3 @@ Link a la [presentación en grupo](https://www.canva.com/design/DAGGN6EK2kc/HYAi
 
 ## Presentación individual
 Vídeo del [proyecto intermedio de JSP](https://youtu.be/Ixd1xm60gYE).  
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/qKf2EwInKbA">
-</iframe>
